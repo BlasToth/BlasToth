@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Code Addict](https://github.com/BlasToth/letscoder-bootcamp-202101/blob/main/images/fin.png)
 <!--
 **BlasToth/BlasToth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
